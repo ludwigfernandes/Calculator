@@ -1,6 +1,7 @@
 **Calculator App Using Jetpack Compose**
 
-![Preview](res/1.jpg) ![Preview](res/2.jpg)
+![Preview](res/1.jpg){width=720 height=1431}
+![Preview](res/2.jpg){width=720 height=1431}
 
 This Android calculator app is built using Jetpack Compose, a modern Android UI toolkit for building native user interfaces. The app provides a user-friendly interface for performing basic mathematical operations.
 
