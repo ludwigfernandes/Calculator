@@ -152,7 +152,7 @@ fun CalculatorApp() {
                             input=input.dropLast(1)
                             }
                         }
-                        //input=backspace(input)
+                        ///input=backspace(input)
                         result = evaluateExpression(input)
                     }
                 ) {
