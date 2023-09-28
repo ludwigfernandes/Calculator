@@ -1,11 +1,11 @@
 **Calculator App Using Jetpack Compose**
 
+This Android calculator app is built using Jetpack Compose, a modern Android UI toolkit for building native user interfaces. The app provides a user-friendly interface for performing basic mathematical operations.
+
 [Download](res/Calculator.apk) | [Source code](https://github.com/ludwigfernandes/Calculator.git)
 
 <img src="res/1.jpg" width="250"/>  <img src="res/2.jpg" width="250"/>
 
-
-This Android calculator app is built using Jetpack Compose, a modern Android UI toolkit for building native user interfaces. The app provides a user-friendly interface for performing basic mathematical operations.
 
 **Key Concepts Covered:**
 
